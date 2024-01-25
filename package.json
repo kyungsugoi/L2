@@ -1,0 +1,18 @@
+{
+  "name": "315-l2",
+  "version": "2.0.0",
+  "description": "assignment two",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "kyungsugoi"
+  },
+  "keywords": [
+    "315-l2"
+  ],
+  "author": "Kelsey Pascual",
+  "license": "ISC"
+}
